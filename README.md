@@ -220,7 +220,7 @@ clarinet deploy --mainnet
 
 ### For Stacks Builder Rewards Judges:
 
-1. **🌐 Visit the live website** — [YOUR_DEPLOYED_URL]
+1. **🌐 Visit the live website** — [https://stacksvault.vercel.app](https://stacksvault.vercel.app)
 2. **🦊 Connect wallet** — Click "Connect Wallet" (supports Leather & Xverse)
 3. **🏗️ Create a vault** — Fill in a savings goal name, target, and deadline
 4. **💰 Make a deposit** — Deposit STX into your vault
